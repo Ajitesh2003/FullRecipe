@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FullRecipe/static/css/main.7e344af3.css",
+    "main.js": "/FullRecipe/static/js/main.2ec80159.js",
+    "index.html": "/FullRecipe/index.html",
+    "main.7e344af3.css.map": "/FullRecipe/static/css/main.7e344af3.css.map",
+    "main.2ec80159.js.map": "/FullRecipe/static/js/main.2ec80159.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e344af3.css",
+    "static/js/main.2ec80159.js"
+  ]
+}
